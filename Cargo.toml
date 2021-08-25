@@ -1,0 +1,11 @@
+[package]
+name = "learn_rust"
+version = "0.1.0"
+authors = ["https://github.com/KaynHvH"]
+edition = "2018"
+
+[dependencies]
+colored = "2.0.0"
+tokio = "1.0.0"
+chrono = "0.4.19"
+rand = "0.8.4"
